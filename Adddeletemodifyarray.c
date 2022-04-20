@@ -4,7 +4,6 @@ int main()
 {
     int a[100];
     int element,i,loc,size,n,j,choice;
-    printf("C Program to Insert and Delete an Element in an Array using switch case\n");
     printf("1. Inserting an Element in an Array\n");
     printf("2. Deleting an Element in an Array\n");
     printf("Select your choice : ");
