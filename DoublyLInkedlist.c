@@ -18,9 +18,7 @@ void main ()
 int choice =0;  
     while(choice != 9)  
     {  
-        printf("\n*********Main Menu*********\n");  
-        printf("\nChoose one option from the following list ...\n");  
-        printf("\n===============================================\n");  
+        printf("\nChoose one option from the following list ...\n");
         printf("\n1.Insert in Beginning\n2.Insert at last\n3.Delete from Beginning\n4.Delete from last\n5.Search\n6.Show\n7.Exit\n");  
         printf("\nEnter your choice?\n");  
         scanf("\n%d",&choice);  
@@ -30,7 +28,7 @@ int choice =0;
             insertion_beginning();  
             break;  
             case 2:  
-                    insertion_last();  
+            insertion_last();  
             break;  
             case 3:  
             deletion_beginning();  
@@ -86,8 +84,7 @@ void insertion_beginning()
     head = ptr;  
    }  
    printf("\nNode inserted\n");  
-}  
-     
+}       
 }  
 void insertion_last()  
 {  
@@ -123,8 +120,7 @@ void insertion_last()
         }  
    }  
      printf("\nnode inserted\n");  
-}  
-  
+}   
 void deletion_beginning()  
 {  
     struct node *temp;  
