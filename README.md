@@ -10,7 +10,7 @@ Assignments:-
 
 Practice:-
 
-1.[Biary Tree](https://github.com/Aagsthya/19ECB132/blob/main/Binary_Tree.c)
+1.[Binary Tree](https://github.com/Aagsthya/19ECB132/blob/main/Binary_Tree.c)
 
 2.[Linked Data Structures](https://github.com/Aagsthya/19ECB132/blob/main/Linear_data_Structures.c)
 
