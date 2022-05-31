@@ -76,3 +76,22 @@ int main()
     }
     return 0;
 }
+
+/* Output
+
+1. Inserting an Element in an Array
+2. Deleting an Element in an Array
+Select your choice : 1
+Enter the size of an array
+3
+Enter 3 array elements
+123
+1
+1
+List before Insertion: 123 1 1 
+Enter an element to insert
+5
+Enter a position to insert an element 5
+2
+List after Insertion: 123 5 1 1
+  */
