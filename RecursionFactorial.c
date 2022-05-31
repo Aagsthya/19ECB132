@@ -17,3 +17,7 @@ int main()
 	printf("Result = %d\n",result);
 	return 0;
 }
+/* Output
+Enetr a positive number 5
+Result = 120
+  */

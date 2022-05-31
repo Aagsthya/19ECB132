@@ -21,3 +21,9 @@ int main()
     printf("\nmaximum of array is : %d",max);
     return 0;
 }
+/* Output
+ Enter size of the array : 5
+Enter elements in array : 1 2 3 4 5 
+minimum of array is : 1
+maximum of array is : 5
+  */

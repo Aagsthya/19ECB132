@@ -5,5 +5,9 @@ main()
   printf("Enter the value");
   scanf("%d",&a);
   n=(a*(a+1))/2;
-  printf("%d/n",n);
+  printf("Sum is :%d",n);
 }
+/* Output
+  Enter the value 100
+  Sum is :5050
+  */
