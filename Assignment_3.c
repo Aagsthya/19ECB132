@@ -237,3 +237,160 @@ void search()
         }  
     }          
 }
+/* Output
+   Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+1
+
+Enter Item value 1
+
+Node inserted
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+2
+
+Enter value 2
+
+node inserted
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+6
+
+ printing values ... 
+1
+2
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+3
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+4
+
+node deleted
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+6
+
+nothing to print
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+1
+
+Enter Item value1
+
+Node inserted
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+1
+
+Enter Item value2
+
+Node inserted
+
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+5
+
+Enter item which you want to search?
+2
+item found at location 1
+Choose one option from the following list ...
+
+1.Insert in Beginning
+2.Insert at last
+3.Delete from Beginning
+4.Delete from last
+5.Search
+6.Show
+7.Exit
+
+Enter your choice?
+7
+  */
