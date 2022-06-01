@@ -19,3 +19,5 @@ Practice:-
 4.[Recurtion Factorial](https://github.com/Aagsthya/19ECB132/blob/main/RecursionFactorial.c)
 
 5.[Sum of Natural](https://github.com/Aagsthya/19ECB132/blob/main/Sumnatural.c)
+
+6.[Logical operator](https://github.com/Aagsthya/19ECB132/blob/main/Logical.c)
