@@ -5,6 +5,7 @@ Assignments:-
 1.[Add delete modify array](Assingnment_1.c)   
 2.[Add delete modify singly linked list](Assignment_2.c)   
 3.[Doubly linked list](Assignment_3.c)   
+
 Practice:-   
 
 1.[Binary Tree](Binary_Tree.c)   
